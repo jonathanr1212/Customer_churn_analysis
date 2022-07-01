@@ -21,10 +21,10 @@ The final chosen model was a Random Forest Classifier which had class weights th
 
 ## Evaluation
 The confusion matrix shows the results of the final Random Forest Classifier.
-
+![](images/Screenshot%202022-06-29%20214044.png)
 
 This is a snippet of the results of the important features of the model.
-
+![](images/Screenshot%202022-06-29%20214935.png)
 
 
 ## Conclusion
@@ -37,3 +37,7 @@ After working with several models to predict the outcomes of churn data, the fin
 
 The company should focus on customers who fall into one, two or even all of these categories and develop strategies to retain these customers. 
 
+## For More Information
+See the full analysis in the Jupyter Notebook or review this presentation.
+
+For additional info, contact Jonathan Roman at jonathan.roman1213@gmail.com
